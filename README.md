@@ -14,7 +14,7 @@
     <p>Ik ben Javagar Kanawathipillai,ben geboren op 27-01-2002. Ik zit op pieternieuwland college. Ik zit in H4C met het NG profiel. Ik koos voor informatica want coderen lijkt mij een handige skill om te hebben en zal helpen om een baan te vinden. </p>
   
   <h1>Hobby's</h1>
-    <p>Ik ben een athleet. Dat is waar mijn leven om draait. Ik speel nu Americam football voor de Amsterdam Panthers en het Nederlands team. Ik speel op een best hoog niveau dus. Mijn doel is om in Amerika te spelen. En hopelijk prof worden. Maar D1 college football spelen is wat ik in iedergeval wil bereiken. Dan mag ik gratis naar een universiteit om op het hoogste niveau American football te spelen voor prof niveau. </p>
+    <p>Ik ben een athleet. Dat is waar mijn leven om draait. Ik speel nu Americam football voor de Amsterdam Panthers en het Nederlands team. Ik speel op een best hoog niveau dus. Mijn doel is om in Amerika te spelen. En hopelijk prof worden. Maar D1 college football spelen is wat ik in iedergeval wil bereiken. Dan mag ik gratis naar een universiteit om op het hoogste niveau American football te spelen voordat ik speel op prof niveau. </p>
    
    <h1>Links</h1>
      <ol>
