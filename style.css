@@ -11,9 +11,10 @@ body {
     background-color: lightblue;
 }
 
-<div>
-  <img src="https://www.onlinewebfonts.com/icon/175491" alt="home page image">
-</div>
+p.italic {
+    font-style: italic;
+}
+
  
 
 
