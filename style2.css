@@ -1,10 +1,10 @@
-#pagina{
+.pagina{
   background-color:rgb(138, 43, 226);
   height: auto;
   width:auto;
 }
 
-#regel1{
+.regel1{
   float:left;
   width:auto;
   height: auto;
