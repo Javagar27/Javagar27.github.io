@@ -11,6 +11,7 @@
   width: 1000px;
   height: 1000px;
   grid-template: repeat(3,9fr)/repeat(3,9fr);
+  z-index: -1;
 }
 
 .regel1{
