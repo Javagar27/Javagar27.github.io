@@ -7,9 +7,9 @@
 .grid{
   display: grid;
   border: 1px red solid;
-  width: 1000;
+  width: 800px;
   height: 1000px;
-  grid-template: repeat(3,9fr)/repeat(3,9fr)
+  grid-template: repeat(3,3fr)/repeat(3,3fr)
 }
 
 .regel1{
