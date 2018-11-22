@@ -7,7 +7,7 @@
 .grid{
   display: grid;
   border: 5px red solid;
-  border-radius: 10px;
+  border-radius: 5px;
   width: 1000px;
   height: 1000px;
   grid-template: repeat(3,9fr)/repeat(3,9fr);
